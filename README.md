@@ -1,0 +1,1 @@
+Skill Learning Platform for Students: Built a web platform for students to learn new skills with user registration, progress tracking, and course recommendations using HTML, CSS, JavaScript, and a backend framework.
